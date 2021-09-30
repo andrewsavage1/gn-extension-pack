@@ -1,8 +1,13 @@
 {
     "name": "gn-extension-pack",
+    "publisher": "asavage",
     "displayName": "GN Extension Pack",
     "description": "Popular extensions for GN development in Visual Studio Code.",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andrewsavage1/gn-extension-pack"
+    },
     "engines": {
         "vscode": "^1.60.0"
     },
