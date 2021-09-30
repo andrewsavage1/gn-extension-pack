@@ -1,0 +1,17 @@
+{
+    "name": "gn-extension-pack",
+    "displayName": "GN Extension Pack",
+    "description": "Popular extensions for GN development in Visual Studio Code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "msedge-dev.gnls",
+        "npclaudiu.vscode-gn",
+        "persidskiy.vscode-gnformat"
+    ]
+}
